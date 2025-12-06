@@ -3,7 +3,7 @@
 case "$1" in
 	r)
 		shift
-		python3 project_name/scripts/main.py "$@"
+		python3 magma_viz/cli/main.py "$@"
 		;;
 	t)
 		shift

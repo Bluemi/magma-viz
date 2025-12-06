@@ -1,4 +1,4 @@
-# project_name
+# magma_viz
 
 Template for python projects.
 
